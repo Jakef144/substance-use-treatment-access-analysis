@@ -1,4 +1,4 @@
-# Bootcamp_project_1
+# substance-use-treatment-access-analysis
 jake/megan/shiki
 10/29 Searched for data sources created plan to find data regarding substance abuse and mental health facilities
 10/31 Finalized plan for subtance abuse, sent final plan to project proposals
