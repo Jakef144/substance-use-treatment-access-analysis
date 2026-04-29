@@ -28,6 +28,9 @@ Access to treatment facilities does not always align with areas experiencing hig
 ## Key Findings
 - Identified regions with high substance use rates but limited treatment facility access  
 - Observed inconsistencies in facility distribution relative to population needs  
-- Highlighted areas where resource allocation may be insufficient  
+- Highlighted areas where resource allocation may be insufficient
+- ## Sample Visualization
+
+![Substance Use Analysis](visuals/chart.png)
 
 ## Project Structure
